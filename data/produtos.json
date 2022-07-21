@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "nome": "Havaianas de Pau",
+        "preco": 50.99
+    },
+    {
+        "id": 2,
+        "nome": "Sandália da Humildade",
+        "preco": 10.9
+    },
+    {
+        "id": 3,
+        "nome": "Travesseiro de preda",
+        "preco": 150.5
+    },
+    {
+        "id": 4,
+        "nome": "Papet do Hércules",
+        "preco": 120.49
+    }
+]
