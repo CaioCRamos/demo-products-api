@@ -1,6 +1,8 @@
-# Setup do projeto
+# Demo - API de Produtos
 
-## Iniciação de um projeto NodeJS
+Demonstração de como criar uma `API` simples em **Node JS** feita para os alunos de **Desenvolvimento Web** do projeto **Codifica** da [Base Social](https://basesocial.org/) em 20 de julho de 2022.
+
+## Iniciação de um projeto Node JS
 `npm init` ou `npm init -y`
 
 ## Instalar dependências
