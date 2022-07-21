@@ -1,0 +1,19 @@
+{
+  "name": "demo-products-api",
+  "version": "1.0.0",
+  "description": "`npm init` ou `npm init -y`",
+  "main": "index.js",
+  "scripts": {
+    "start-dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
